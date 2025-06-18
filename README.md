@@ -1,4 +1,4 @@
-Here is a more detailed update to the Readme.md file with additional professional information:
+
 
 ## Automation Bookstore Project
 
